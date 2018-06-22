@@ -172,6 +172,8 @@ public class FileListingSoftware {
 			
 			saveFileListPath(file , fileList);
 			
+			System.out.println("List of file are stored in .csv file !! Thankyou !!");
+			
 			
 			
 		}
